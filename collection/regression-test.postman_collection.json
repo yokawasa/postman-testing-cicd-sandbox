@@ -9,7 +9,7 @@
 	},
 	"item": [
 		{
-			"name": "Status code verification",
+			"name": "Status code verifications",
 			"event": [
 				{
 					"listen": "test",
